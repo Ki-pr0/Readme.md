@@ -65,6 +65,8 @@ if __name__ == '__main__':
 </p>
 <br>
 
+## Working to Improve my Skills on Ethical H4cking
+
 [![K0H Activity Graph](https://i.ibb.co/XDbnVb0/whitehat.png)](https://github.com/Ki-pr0)
 
 ------
