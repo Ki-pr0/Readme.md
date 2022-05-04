@@ -1,12 +1,18 @@
 <h1 align="center">
-  <b>K0H Martinez</b>
+  <b>J. Martinez</b>
 </h1>
 
-Heya! I'm Javi Martinez, a student currently living in Alicante, Spain. I'm preparing for 
+Heya! I'm J. Martinez, a student currently living in Alicante, Spain. I'm preparing for 
 <a href="https://www.offensive-security.com/pwk-oscp/">OSCP Certefication from Offensive Security</a>, 
 and learning programming through small projects on the side.
 
 <br>
+<p>
+<div align="center">
+   <img src="https://i.ibb.co/svQ95GV/User-Htb.png">
+   
+</div>
+</p>
 
 <p>
 <div align="center">
