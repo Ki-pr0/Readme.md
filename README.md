@@ -11,7 +11,8 @@ and learning programming through small projects on the side.
 <p>
 <div align="center">
    <img src="https://i.ibb.co/DWrxXbV/readme-img.png">
- </div>
+   
+</div>
 </p>
 
 ```python
@@ -50,8 +51,11 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://ki-pr0.github.io/">
-  <img width="49.5%" src="https://i.ibb.co/k81mr9w/failure.png" />
-    </a>
+  <img width="49.5%" src="https://i.ibb.co/h8s5mXN/Rango-HTB.png" />
+  <img width="100%" src="https://i.ibb.co/jW4Wx6n/Stats-HTB.png" />  
+  <img width="100%" src="https://i.ibb.co/Qb1SMqt/Stasts-Graficos.png" />
+    
+  </a>
 </p>
 <br>
 
