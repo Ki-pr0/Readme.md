@@ -51,8 +51,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://ki-pr0.github.io/">
   <img width="49.5%" src="https://i.ibb.co/k81mr9w/failure.png" />
-    <img width="49.5%" src="https://i.ibb.co/k81mr9w/failure.png" />
-  </a>
+    </a>
 </p>
 <br>
 
