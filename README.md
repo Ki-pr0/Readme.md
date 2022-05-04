@@ -55,7 +55,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![K0H Activity Graph](https://i.ibb.co/k81mr9w/failure.png)](https://github.com/Ki-pr0)
+[![K0H Activity Graph](https://i.ibb.co/XDbnVb0/whitehat.png)](https://github.com/Ki-pr0)
 
 ------
 
