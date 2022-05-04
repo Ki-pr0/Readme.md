@@ -10,6 +10,7 @@ and learning programming through small projects on the side.
 
 <p>
 <div align="center">
+   <img src="https://i.ibb.co/DWrxXbV/readme-img.png">
  </div>
 </p>
 
