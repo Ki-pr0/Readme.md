@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Javi Martinez</b>
+  <b>K0H Martinez</b>
 </h1>
 
 Heya! I'm Javi Martinez, a student currently living in Alicante, Spain. I'm preparing for 
@@ -10,7 +10,6 @@ and learning programming through small projects on the side.
 
 <p>
 <div align="center">
-  <img src="https://ibb.co/nmPH20g">
  </div>
 </p>
 
