@@ -39,14 +39,14 @@ if __name__ == '__main__':
 ```
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/31q3patoerf2ha2u3tumlrixuzny">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/track/3rNbam2IDVGcIBdaL44QE3?si=7eb2c46f247141da">
+  <a href="https://open.spotify.com/track/3GWomAWy6PxtyzlfqKhTIl?si=66645b78df124be7">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
